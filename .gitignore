@@ -23,6 +23,3 @@ yarn-debug.log*
 yarn-error.log*
 
 /back
-
-package_lock.json
-package.json
