@@ -1,1 +1,1 @@
-web: gunicorn --chdir ./djproj djproj.wsgi
+web: gunicorn djproj.wsgi
